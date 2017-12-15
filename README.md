@@ -1,8 +1,7 @@
-# Non-WordPress Sandbox
+# Intro to php
 
-This repo is the starter project for [KnowTheCode.io](https://knowthecode.io). Come check out the [Let’s Build a Non-WordPress Sandbox](https://knowthecode.io/labs/lets-build-non-wordpress-sandbox) lab, where you will build this project with [Tonya](https://knowthecode.io/about) as she explains each step.
+This repo is to help understand the basics of php.
 
-You will use this plugin to build labs with us and test constructs in the [Docx](https://KnowTheCode.io/docx).
 
 ## Features
 
@@ -17,24 +16,14 @@ This plugin includes the following features:
 1. Download it.
 2. Put into your `Sites` folder
 3. Extract it
-4. Go into the new folder
-5. Run `composer install` in terminal to bring in the dependencies and install Composer locally.
+
 
 Installation from GitHub is as simple as cloning the repo onto your local machine.  To clone the repo, do the following:
 
 1. Using PhpStorm, open your project and navigate to `Sites`. (Or open terminal and navigate there).
-2. Then type: `git clone https://github.com/KnowTheCode/Non-WordPress-Sandbox`.
+2. Then type: `git clone https://github.com/ftwebdesign/IntroToPhp.git`.
 3. Go into the new folder
-4. Run `composer install` in terminal to bring in the dependencies and install Composer locally.
-
-### Updating to New Kint
-
-If you have the old version of Kint, do the following:
-
-1. Change the dependency in your `composer.json` file to `"kint-php/kint" : "^1.0",`
-2. Run `composer update` in terminal or Git Bash to update all of the dependencies to the latest versions, including Kint.
-
-That's it.  
+  
 
 ## Contributions
 

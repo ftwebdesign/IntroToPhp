@@ -14,6 +14,9 @@
 // install kint and whoops
 require_once( __DIR__ . '/assets/vendor/autoload.php' );
 
+// I really encourage you to listen to the free module at Know The Cpde
+// https://knowthecode.io/labs/types-of-data
+
 // scalar base type variables
 // ==========================
 // boolean     true/false      $myHat       = true;

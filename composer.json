@@ -17,8 +17,7 @@
   },
   "autoload": {
     "files": [
-      "src/support/exceptions.php",
-      "demo.php"
+      "src/support/exceptions.php"
     ]
   },
   "extra": {
